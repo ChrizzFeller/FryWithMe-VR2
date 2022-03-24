@@ -122,7 +122,7 @@ Material:
     - _MainTexUV: 0
     - _MainTextures: 0
     - _MaxSamples: 20
-    - _Metal: 1
+    - _Metal: 0.101
     - _MinSamples: 4
     - _Mode: 0
     - _Occlusion: 1
@@ -137,7 +137,7 @@ Material:
     - _Roughness: 0.25
     - _SpecularHighlights: 1
     - _SpecularTint: 0
-    - _Specularity: 1
+    - _Specularity: 0.138
     - _SrcBlend: 1
     - _TeamColor: 0
     - _TeamColorMasksAsTint: 0

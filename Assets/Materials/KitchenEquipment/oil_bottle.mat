@@ -130,7 +130,7 @@ Material:
     - _EmissionWeight: 1
     - _EnableInstancing: 0
     - _ForwardRenderingOptions: 0
-    - _GlossMapScale: 1
+    - _GlossMapScale: 0.38
     - _Glossiness: 0
     - _GlossyReflections: 1
     - _HasBumpMap: 0
@@ -142,7 +142,7 @@ Material:
     - _MainTextures: 0
     - _MaxSamples: 20
     - _Metal: 0.848
-    - _Metallic: 0.5
+    - _Metallic: 0.31
     - _MinSamples: 4
     - _Mode: 3
     - _Occlusion: 1
